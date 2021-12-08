@@ -28,13 +28,16 @@ jobs:
       - name: Install operating system dependencies
         run: python -m playwright install-deps          
       - name: Run talkshow updater
-        run: python ./talkshows/update_all.py
+        run: |-
+          cd talkshows
+          python update_all.py
+          cd ..
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreplay.github.com"
           git add -A
-          timestamp=$(data -u)
+          timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
         
