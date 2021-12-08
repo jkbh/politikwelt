@@ -1,6 +1,4 @@
 from genericpath import exists
-import os
-from tqdm import tqdm
 from playwright.sync_api import sync_playwright
 import json
 
@@ -62,7 +60,7 @@ def update_lanz(path):
         known_urls = []
 
     urls = [url for url in  _get_lanz_urls() if url not in known_urls]
-    shows = [_get_lanz_show(url) for url in tqdm(urls)]
+    shows = [_get_lanz_show(url) for url in urls]
     known_shows.extend(shows)
 
     json.dump(known_shows, open(path, 'w'), indent=4)
