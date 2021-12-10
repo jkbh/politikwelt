@@ -726,5 +726,51 @@
                 "comment": "Der Chefredakteur der \"Augsburger Allgemeinen\" und intime CSU-Kenner blickt auf die offenen Machtverh\u00e4ltnisse der Union und erkl\u00e4rt deren Bedeutung f\u00fcr das Zustandekommen einer Regierung."
             }
         ]
+    },
+    {
+        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-9-dezember-2021-102.html",
+        "channel": "ZDF",
+        "title": "Markus Lanz vom 9. Dezember 2021",
+        "date": "09.12.2021",
+        "guests": [
+            {
+                "name": "Peter Tschentscher",
+                "job": "Politiker",
+                "comment": "Der Erste B\u00fcrgermeister Hamburgs (SPD) \u00e4u\u00dfert sich zu den heutigen Bund-L\u00e4nder-Beratungen sowie zur Ernennung des neuen Bundeskanzlers Olaf Scholz."
+            },
+            {
+                "name": "Markus Blume",
+                "job": "Politiker",
+                "comment": "Der CSU-Generalsekret\u00e4r nimmt Stellung zur Rolle der Union als gr\u00f6\u00dfte Oppositionsfraktion im neuen Bundestag sowie zur bayerischen Corona-Politik seines Parteichefs Markus S\u00f6der."
+            },
+            {
+                "name": "Helene Bubrowski",
+                "job": "Journalistin",
+                "comment": "Die \"FAZ\"-Redakteurin und Juristin analysiert die politische Debatte um das \u00fcberarbeitete Infektionsschutzgesetz, den weiteren Krisen-Kurs und die Corona-Impfpflicht."
+            },
+            {
+                "name": "Prof. Christiane Woopen",
+                "job": "Ethikerin",
+                "comment": "Sie reflektiert die zunehmende gesellschaftliche Spaltung nach fast zwei Jahren Pandemie, und erl\u00e4utert, warum sie einer allgemeinen Corona-Impfpflicht skeptisch gegen\u00fcbersteht."
+            },
+            {
+                "name": "Prof. Timo Ulrichs",
+                "job": "Virologe",
+                "comment": "Er informiert \u00fcber die Entwicklung des Infektionsgeschehens, die neuesten Erkenntnisse zur Omikron-Virusvariante sowie \u00fcber Kinderimpfungen."
+            }
+        ]
+    },
+    {
+        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-8-dezember-2021-100.html",
+        "channel": "ZDF",
+        "title": "Markus Lanz vom 8. Dezember 2021",
+        "date": "09.12.2021",
+        "guests": [
+            {
+                "name": "Margot Friedl\u00e4nder",
+                "job": "Shoah-\u00dcberlebende",
+                "comment": "Die 100-j\u00e4hrige in Berlin lebende J\u00fcdin verlor all ihre Angeh\u00f6rigen im Holocaust. Sie erz\u00e4hlt ihre ergreifende Familiengeschichte, und mahnt: \"Es darf nie wieder geschehen.\""
+            }
+        ]
     }
 ]
