@@ -1,730 +1,941 @@
 [
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-7-dezember-2021-100.html",
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-12-08T23:05:00",
+        "guests": [
+            "Kevin K\u00fchnert",
+            "Friedrich Merz",
+            "Prof. Jonas Schmidt-Chanasit",
+            "Oliver Kalkofe",
+            "Kristina Dunz",
+            "Stefan Aust"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-790.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-12-01T22:50:00",
+        "guests": [
+            "Hendrik W\u00fcst",
+            "Joachim Gauck",
+            "Anna Planken",
+            "Christina Berndt",
+            "Wolfram Weimer"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-834.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-11-24T21:00:00",
+        "guests": [
+            "Lars Klingbeil",
+            "Volker Wissing",
+            "Prof. Ulrike Protzer",
+            "Dr. Manfred Wagner",
+            "Ulrich Deppendorf",
+            "Cerstin Gammelin",
+            "Sascha Lobo"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-824.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-11-17T22:50:00",
+        "guests": [
+            "Markus S\u00f6der",
+            "Roland Kaiser",
+            "Micky Beisenherz",
+            "Dagmar Rosenfeld",
+            "Julie Kurz"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-816.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-11-10T23:05:00",
+        "guests": [
+            "Swetlana Tichanowskaja",
+            "Karl Lauterbach",
+            "Christine Aschenberg-Dugnus",
+            "J\u00fcrgen Becker",
+            "Melanie Amann",
+            "Helene Bubrowski"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-806.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-11-03T22:50:00",
+        "guests": [
+            "Armin Laschet",
+            "Ranga Yogeshwar",
+            "Ralf Moeller",
+            "Anna Mayr",
+            "Sigmund Gottlieb"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-798.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-10-06T22:50:00",
+        "guests": [
+            "Cem \u00d6zdemir",
+            "Herbert Reul",
+            "Karl Lauterbach",
+            "Andreas Gassen",
+            "Florian Schroeder",
+            "Katharina Hamberger",
+            "Rainer Hank"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-780.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-09-29T22:50:00",
+        "guests": [
+            "Carsten Linnemann",
+            "Ralf Stegner",
+            "Claudia Roth",
+            "Marie-Agnes Strack-Zimmermann",
+            "Tina Hassel",
+            "Dagmar Rosenfeld",
+            "Hajo Schumacher"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-768.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-09-22T22:50:00",
+        "guests": [
+            "Hubertus Heil",
+            "Friedrich Merz",
+            "Prof. Hendrik Streeck",
+            "Hannes Jaenicke",
+            "Eva Schulz",
+            "Jan Fleischhauer"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-758.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-09-15T22:50:00",
+        "guests": [
+            "Dieter Hallervorden",
+            "Marco Buschmann",
+            "Tino Chrupalla",
+            "Ulrich Wickert",
+            "Ulrike Herrmann",
+            "Wolfram Weimer"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-748.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-09-08T22:50:00",
+        "guests": [
+            "Katharina Schulze",
+            "Markus Blume",
+            "Helge Schneider",
+            "Urban Priol",
+            "Susanne Gaschke",
+            "Michael Stempfle"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-740.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-09-01T22:50:00",
+        "guests": [
+            "John Bolton",
+            "Christian Hacke",
+            "Amira Mohamed Ali",
+            "Beatrix von Storch",
+            "Jochen Busse",
+            "Dagmar Rosenfeld",
+            "Ann-Katrin M\u00fcller"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-728.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-08-25T23:05:00",
+        "guests": [
+            "Frank St\u00e4bler",
+            "Dr. J\u00f6rdis Frommhold",
+            "Antonia Rados",
+            "Gabor Steingart",
+            "Hans-Ulrich J\u00f6rges"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-720.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-08-18T22:50:00",
+        "guests": [
+            "Norbert R\u00f6ttgen",
+            "Gregor Gysi",
+            "Shikiba Babori",
+            "Marcus Grotian",
+            "Theo Koll",
+            "Anna Schneider",
+            "Markus Feldenkirchen"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-710.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-08-11T22:50:00",
+        "guests": [
+            "Karl Lauterbach",
+            "Janine Wissler",
+            "Christian Lindner",
+            "Cherno Jobatey",
+            "Kristina Dunz",
+            "Paul Ronzheimer"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-700.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-08-04T23:00:00",
+        "guests": [
+            "Robert Habeck",
+            "Hape Kerkeling",
+            "Hubert Aiwanger",
+            "Amelie Fried",
+            "Robin Alexander",
+            "Wolfram Weimer"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-690.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-06-09T22:50:00",
+        "guests": [
+            "Markus S\u00f6der",
+            "Olaf Scholz",
+            "Prof. Hendrik Streeck",
+            "Gerhard Delling",
+            "Dagmar Rosenfeld",
+            "Melanie Amann"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-658.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-06-02T22:50:00",
+        "guests": [
+            "Prof. Alena Buyx",
+            "Stefan Aust",
+            "Hubertus Meyer-Burckhardt",
+            "Ulrike Herrmann",
+            "Jan Fleischhauer"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-652.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-05-26T22:50:00",
+        "guests": [
+            "Annalena Baerbock",
+            "Karl Lauterbach",
+            "Anne-Sophie Mutter",
+            "Frank Thelen",
+            "Cerstin Gammelin",
+            "Udo Lielischkies"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-646.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-05-19T23:05:00",
+        "guests": [
+            "Dr. Eckart von Hirschhausen",
+            "Constantin Schreiber",
+            "Malcolm Ohanwe",
+            "J\u00f6rg Pilawa",
+            "Katharina Hamberger",
+            "Nikolaus Blome"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-626.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-05-12T23:05:00",
+        "guests": [
+            "Gerd M\u00fcller",
+            "Leif Erik Sander",
+            "Hunter Biden",
+            "Nelson M\u00fcller",
+            "Susanne Gaschke",
+            "Nicole Diekmann"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-624.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-05-05T22:50:00",
+        "guests": [
+            "Sahra Wagenknecht",
+            "Prof. Hendrik Streeck",
+            "Anette Segtrop",
+            "Mathias Richling",
+            "Anna Dushime",
+            "Markus Feldenkirchen"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-622.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-04-28T23:05:00",
+        "guests": [
+            "Sigmar Gabriel",
+            "Prof. Helga R\u00fcbsamen-Schaeff",
+            "Thomas Gottschalk",
+            "Peter Hornung",
+            "Ulrike Herrmann",
+            "Nena Schink"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-616.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-04-14T22:50:00",
+        "guests": [
+            "Dorothee B\u00e4r",
+            "Serap G\u00fcler",
+            "Prof. Dr. Karl Lauterbach",
+            "Dr. Lisa Federle",
+            "Anja Kohl",
+            "Cerstin Gammelin",
+            "Wolfram Weimer"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-606.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-03-24T23:10:00",
+        "guests": [
+            "Helge Braun",
+            "Dirk Neubauer",
+            "Viola Priesemann",
+            "Dagmar Rosenfeld",
+            "Micky Beisenherz",
+            "Manfred L\u00fctz"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-586.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-03-17T22:50:00",
+        "guests": [
+            "Armin Laschet",
+            "Karl Lauterbach",
+            "Ilkay G\u00fcndo\u011fan",
+            "Ulrich Wickert",
+            "Alexandra F\u00f6derl-Schmid",
+            "Kristina Dunz"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-584.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-03-10T22:50:00",
+        "guests": [
+            "Prof. Dr. Thorsten Lehr",
+            "Dr. J\u00fcrgen Zastrow",
+            "Petra Gerster",
+            "Nele Pollatschek",
+            "Walter Sittler",
+            "Katharina Hamberger",
+            "Ansgar Graw"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-574.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-02-24T22:50:00",
+        "guests": [
+            "Sebastian Kurz",
+            "Wolfgang Sch\u00e4uble",
+            "Dirk Brockmann",
+            "Sibylle Anderl",
+            "D\u00fczen Tekkal",
+            "Gabor Steingart"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-554.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche vom 17. Februar 2021",
+        "date": "2021-02-17T22:50:00",
+        "guests": [
+            "Bill Gates",
+            "Michael Kretschmer",
+            "Pinar Atalay",
+            "Ulrich Reitz",
+            "Constanze von Bullion"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-546.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-02-10T23:10:00",
+        "guests": [
+            "Prof. Dr. Uwe Janssens",
+            "Boris Palmer",
+            "Tal Zaks",
+            "Udo Lielischkies",
+            "Hubertus Meyer-Burckhardt",
+            "Anna Mayr",
+            "Anette Dowideit"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-530.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-01-27T22:50:00",
+        "guests": [
+            "Robert Habeck",
+            "Karl Lauterbach",
+            "Hendrick Streeck",
+            "Eva Schulz",
+            "Cherno Jobatey",
+            "Claus Strunz"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-524.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-01-20T23:50:00",
+        "guests": [
+            "Markus S\u00f6der",
+            "Ranga Yogeshwar",
+            "Gesine Schwan",
+            "Michael Mittermeier",
+            "Susanne Gaschke",
+            "Ulrike Herrmann"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-522.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2021-01-13T23:00:00",
+        "guests": [
+            "Jens Spahn",
+            "Urban Priol",
+            "Melanie Amann",
+            "Robin Alexander",
+            "Christian Hacke",
+            "Robin Kelly"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-520.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche: Sturm auf das Capitol",
+        "date": "2021-01-07T23:00:00",
+        "guests": [
+            "Norbert R\u00f6ttgen",
+            "Tina Hassel",
+            "Ansgar Graw",
+            "Ron Williams",
+            "Sudha David-Wilp",
+            "Majid Sattar"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-556.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2020-12-09T22:50:00",
+        "guests": [
+            "Jens Spahn",
+            "Melanie Brinkmann",
+            "Joe Kaeser",
+            "Ingo Zamperoni",
+            "Dagmar Rosenfeld",
+            "Peter Zudeick"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-496.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2020-11-25T23:30:00",
+        "guests": [
+            "Manuela Schwesig",
+            "Dirk Brockmann",
+            "Cihan \u00c7elik",
+            "Smudo",
+            "Hans-Ulrich J\u00f6rges",
+            "Lamya Kaddor",
+            "Markus Feldenkirchen"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-482.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2020-11-11T22:50:00",
+        "guests": [
+            "Sigmar Gabriel",
+            "Dieter Hallervorden",
+            "Markus Peichl",
+            "Sandra Navidi",
+            "Christina Berndt",
+            "Nikolaus Blome"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-468.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2020-10-14T23:25:00",
+        "guests": [
+            "Manuela Schwesig",
+            "Hendrik Streeck",
+            "Mary L. Trump",
+            "Stephan Bierling",
+            "Vince Ebert",
+            "Cerstin Gammelin",
+            "Susanne Gaschke"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-458.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2020-09-09T23:05:00",
+        "guests": [
+            "Saskia Esken",
+            "J\u00f6rdis Frommhold",
+            "Karoline Preisler",
+            "Robin Alexander",
+            "Cathryn Cluever Ashbrook",
+            "Bettina Gaus"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-408.html"
+    },
+    {
+        "channel": "Das Erste",
+        "host": "Sandra Maischberger",
+        "title": "maischberger. die woche",
+        "date": "2020-09-02T22:50:00",
+        "guests": [
+            "Christine Lambrecht",
+            "Frank Thelen",
+            "Sahra Wagenknecht",
+            "Georg Restle",
+            "Claudia Kade",
+            "Joachim Llambi"
+        ],
+        "href": "/information/talk/maischberger/sendung/maischberger-die-woche-400.html"
+    },
+    {
         "channel": "ZDF",
+        "host": "Markus Lanz",
+        "title": "Markus Lanz vom 9. Dezember 2021",
+        "date": "2021-12-09T00:00:00",
+        "guests": [
+            "Peter Tschentscher",
+            "Markus Blume",
+            "Helene Bubrowski",
+            "Prof. Christiane Woopen",
+            "Prof. Timo Ulrichs"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-9-dezember-2021-102.html"
+    },
+    {
+        "channel": "ZDF",
+        "host": "Markus Lanz",
+        "title": "Markus Lanz vom 8. Dezember 2021",
+        "date": "2021-12-09T00:00:00",
+        "guests": [
+            "Margot Friedl\u00e4nder"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-8-dezember-2021-100.html"
+    },
+    {
+        "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 7. Dezember 2021",
-        "date": "07.12.2021",
+        "date": "2021-12-07T00:00:00",
         "guests": [
-            {
-                "name": "Winfried Kretschmann",
-                "job": "Politiker",
-                "comment": "Der Ministerpr\u00e4sident Baden-W\u00fcrttembergs (B\u00fcndnis 90/Die Gr\u00fcnen) \u00e4u\u00dfert sich zur Corona-Politik und seiner Forderung nach einer Impfpflicht."
-            },
-            {
-                "name": "Robin Alexander",
-                "job": "Journalist",
-                "comment": "Mit Blick auf das heute unterschriebene Regierungsb\u00fcndnis analysiert der stellvertretende \"Welt\"-Chefredakteur den Start der Ampel sowie die Vergabe der Ministerposten."
-            },
-            {
-                "name": "Georg Maier",
-                "job": "Politiker",
-                "comment": "Der Innenminister von Th\u00fcringen (SPD) nimmt Stellung zur 1000er-Indizenz in seinem Bundesland und zu den dort zunehmenden Corona-Protesten. Er sagt: \"Es schaukelt sich gerade hoch.\""
-            },
-            {
-                "name": "Olaf Sundermeyer",
-                "job": "Autor",
-                "comment": "Der Rechtsextremismus-Forscher spricht \u00fcber die Radikalisierung der Querdenker-Bewegung sowie \u00fcber Hintergr\u00fcnde des Aufmarsches vor dem Haus von Sachsens Gesundheitsministerin K\u00f6pping."
-            },
-            {
-                "name": "Prof. Christine Falk",
-                "job": "Immunologin",
-                "comment": "Die Pr\u00e4sidentin der Deutschen Gesellschaft fu\u0308r Immunologie skizziert die Vor- und Nachteile einer Impfpflicht und erkl\u00e4rt, wie es zu Impfdurchbr\u00fcchen kommt und sich diese auswirken."
-            }
-        ]
+            "Winfried Kretschmann",
+            "Robin Alexander",
+            "Georg Maier",
+            "Olaf Sundermeyer",
+            "Prof. Christine Falk"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-7-dezember-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-2-dezember-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 2. Dezember 2021",
-        "date": "02.12.2021",
+        "date": "2021-12-02T00:00:00",
         "guests": [
-            {
-                "name": "Omid Nouripour",
-                "job": "Politiker",
-                "comment": "Der Gr\u00fcnen-Politiker \u00e4u\u00dfert sich zum Start der Ampelkoalition, der Verteilung der Ministerposten sowie zur Diskussion um m\u00f6gliche Nachfolger von Habeck und Baerbock an der Parteispitze."
-            },
-            {
-                "name": "Ann-Kathrin B\u00fc\u00fcsker",
-                "job": "Journalistin",
-                "comment": "Die Politikexpertin vom Deutschlandfunk analysiert die aktuelle Situation der Gr\u00fcnen sowie die Corona-Politik auf Bundes- und L\u00e4nderebene."
-            },
-            {
-                "name": "Prof. Hendrik Streeck",
-                "job": "Virologe",
-                "comment": "Er \u00e4u\u00dfert sich zu den Ursachen der vierten Corona-Welle, der Impfpflicht und den neusten Erkenntnissen \u00fcber die Virus-Variante Omikron."
-            },
-            {
-                "name": "Prof. Bernd B\u00f6ttiger",
-                "job": "Arzt",
-                "comment": "Der K\u00f6lner Klinikchef skizziert die Belastungen, denen die Intensivstationen landesweit ausgesetzt sind und erkl\u00e4rt, wie anhand des sogenannten Kleeblatt-Prinzips Patientenverlegungen erfolgen."
-            }
-        ]
+            "Omid Nouripour",
+            "Ann-Kathrin B\u00fc\u00fcsker",
+            "Prof. Hendrik Streeck",
+            "Prof. Bernd B\u00f6ttiger"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-2-dezember-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-1-dezember-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 1. Dezember 2021",
-        "date": "01.12.2021",
+        "date": "2021-12-01T00:00:00",
         "guests": [
-            {
-                "name": "Stephan Weil",
-                "job": "Politiker",
-                "comment": "Der Ministerpr\u00e4sident Niedersachsens (SPD) nimmt Stellung zu den j\u00fcngsten Bund-L\u00e4nder-Beratungen, zum weiteren Corona-Kurs und zum Start der Ampelkoalition.\u00a0\u00a0\u00a0"
-            },
-            {
-                "name": "Hannah Bethke",
-                "job": "Journalistin",
-                "comment": "Die \"NZZ\"-Redakteurin analysiert das Corona-Management im Berliner Machtvakuum sowie die politische Kommunikation. Beim Impfen sieht sie aber auch Verantwortung bei den B\u00fcrgern."
-            },
-            {
-                "name": "Prof. Dirk Brockmann",
-                "job": "Physiker",
-                "comment": "Der Digital-Epidemiologe hinterfragt die Wirksamkeit der geltenden Anti-Corona-Ma\u00dfnahmen. Zudem \u00e4u\u00dfert er sich zur Impfpflicht-Debatte sowie zur Virusvariante Omikron."
-            },
-            {
-                "name": "Dr. Martin Terhardt",
-                "job": "Kinderarzt",
-                "comment": "Der Berliner Kinder- und Jugendarzt ist Mitglied der St\u00e4ndigen Impfkommission. Er erkl\u00e4rt, wie das Expertengremium aktuell eine Impfempfehlung f\u00fcr Kinder von f\u00fcnf bis elf Jahren pr\u00fcft.\u00a0"
-            }
-        ]
+            "Stephan Weil",
+            "Hannah Bethke",
+            "Prof. Dirk Brockmann",
+            "Dr. Martin Terhardt"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-1-dezember-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-30-november-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 30. November 2021",
-        "date": "30.11.2021",
+        "date": "2021-11-30T00:00:00",
         "guests": [
-            {
-                "name": "Reiner Haseloff",
-                "job": "Politiker",
-                "comment": "Der Ministerpr\u00e4sident Sachsen-Anhalts und CDU-Politiker \u00e4u\u00dfert sich zu den heutigen Bund-L\u00e4nder-Beratungen \u00fcber den weiteren Corona-Kurs."
-            },
-            {
-                "name": "Lars Klingbeil",
-                "job": "Politiker",
-                "comment": "Der SPD-Generalsekret\u00e4r nimmt Stellung zum Pandemiemanagement der neuen Regierung, dem Koalitionsvertrag, der Vergabe der Ministerpositionen und zu seiner Nominierung f\u00fcr den Parteivorsitz."
-            },
-            {
-                "name": "Kristina Dunz",
-                "job": "Journalistin",
-                "comment": "Die Politikexpertin vom \"RedaktionsNetzwerk Deutschland\" analysiert das Ringen von Bund und L\u00e4ndern um die weitere Corona-Strategie sowie den Start der Ampelkoalition."
-            },
-            {
-                "name": "Prof. Helga R\u00fcbsamen-Schaeff",
-                "job": "Virologin",
-                "comment": "Sie \u00e4u\u00dfert sich zur zugespitzten Corona-Lage in Deutschland, den M\u00f6glichkeiten, das Infektionsgeschehen besser beherrschen zu k\u00f6nnen sowie zur neu entdeckten Omikron-Variante."
-            }
-        ]
+            "Reiner Haseloff",
+            "Lars Klingbeil",
+            "Kristina Dunz",
+            "Prof. Helga R\u00fcbsamen-Schaeff"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-30-november-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-25-november-2021-102.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 25. November 2021",
-        "date": "25.11.2021",
+        "date": "2021-11-25T00:00:00",
         "guests": [
-            {
-                "name": "Helge Braun",
-                "job": "Politiker",
-                "comment": "Der Kanzleramtschef \u00e4u\u00dfert sich zur seiner Kandidatur um den CDU-Parteivorsitz, zur Oppositionsrolle der Union sowie zur Corona-Politik der noch amtierenden Bundesregierung."
-            },
-            {
-                "name": "Andreas Bovenschulte",
-                "job": "Politiker",
-                "comment": "\u00dcber 80 Prozent der Bremer sind vollst\u00e4ndig geimpft. Der SPD-B\u00fcrgermeister der Weser-Stadt erl\u00e4utert seine Corona-Strategie und nimmt Stellung zur gebildeten Ampel-Koalition in Berlin."
-            },
-            {
-                "name": "Robin Alexander",
-                "job": "Journalist",
-                "comment": "Der stellvertretende \"Welt\"-Chefredakteur analysiert die laufende Regierungsbildung im Bund sowie die Bestrebungen der CDU nach einer Neuaufstellung."
-            },
-            {
-                "name": "Susanne Schreiber",
-                "job": "Biophysikerin",
-                "comment": "Die stellvertretende Vorsitzende des Deutschen Ethikrats hinterfragt die aktuell geltenden Anti-Corona-Ma\u00dfnahmen. Zudem reflektiert sie die Debatte um eine Impfpflicht."
-            }
-        ]
+            "Helge Braun",
+            "Andreas Bovenschulte",
+            "Robin Alexander",
+            "Susanne Schreiber"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-25-november-2021-102.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-24-november-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 24. November 2021",
-        "date": "25.11.2021",
+        "date": "2021-11-25T00:00:00",
         "guests": [
-            {
-                "name": "Eva Quadbeck",
-                "job": "Journalistin",
-                "comment": "Heute wurde der Vertrag der Ampelkoalition vorgestellt. Die stellvertretende Chefredakteurin vom \"RedaktionsNetzwerk Deutschland\" informiert \u00fcber die Hintergr\u00fcnde."
-            },
-            {
-                "name": "J\u00fcrgen Trittin",
-                "job": "Politiker",
-                "comment": "F\u00fcr die Gr\u00fcnen geh\u00f6rte er zu den Verhandlern f\u00fcr die Ampelkoalition. Er \u00e4u\u00dfert sich zu den Herausforderungen der Regierungsbildung und zur Rolle seiner Partei im n\u00e4chsten Kabinett."
-            },
-            {
-                "name": "Ralf Stegner",
-                "job": "Politiker",
-                "comment": "Der SPD-Politiker nimmt Stellung zur \u00dcbernahme des Kanzleramtes durch seine Partei. Und er erl\u00e4utert, wie die Sozialdemokraten ihre sechs Ministerien pr\u00e4gen wollen."
-            }
-        ]
+            "Eva Quadbeck",
+            "J\u00fcrgen Trittin",
+            "Ralf Stegner"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-24-november-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-23-november-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 23. November 2021",
-        "date": "23.11.2021",
+        "date": "2021-11-23T00:00:00",
         "guests": [
-            {
-                "name": "Friedrich Merz",
-                "job": "Politiker",
-                "comment": "Er \u00e4u\u00dfert sich zu seiner Kandidatur f\u00fcr den CDU-Parteivorsitz und erl\u00e4utert, wie er die Partei programmatisch und personell in die Zukunft f\u00fchren m\u00f6chte."
-            },
-            {
-                "name": "Kerstin M\u00fcnstermann",
-                "job": "Journalistin",
-                "comment": "Die \"Rheinische Post\"-Redakteurin analysiert die Bestrebungen der CDU, sich neu aufzustellen. \u00dcber den Machtkampf um die Parteispitze sagt sie: \"Man hat Angst vor einer Selbstzerfleischung.\""
-            },
-            {
-                "name": "Timo Ulrichs",
-                "job": "Virologe",
-                "comment": "Er \u00e4u\u00dfert sich zur zugespitzten Corona-Lage, bewertet die Wirksamkeit der aktuell geltenden Ma\u00dfnahmen und nimmt Stellung zur Debatte um eine allgemeine Impfpflicht."
-            },
-            {
-                "name": "Corinna Milborn",
-                "job": "Journalistin",
-                "comment": "Die in Wien lebende Politikexpertin berichtet \u00fcber den neuen Lockdown in \u00d6sterreich, die angek\u00fcndigte Impfpflicht und die Reaktionen darauf."
-            }
-        ]
+            "Friedrich Merz",
+            "Kerstin M\u00fcnstermann",
+            "Timo Ulrichs",
+            "Corinna Milborn"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-23-november-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-18-november-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 18. November 2021",
-        "date": "18.11.2021",
+        "date": "2021-11-18T00:00:00",
         "guests": [
-            {
-                "name": "Christine Aschenberg-Dugnus",
-                "job": "Politikerin",
-                "comment": "Die FDP-Gesundheitspolitikerin erl\u00e4utert, warum sie f\u00fcr eine Reform des Infektionsschutzgesetzes gestimmt hat und es f\u00fcr richtig h\u00e4lt, die Corona-Notlage damit zu beenden."
-            },
-            {
-                "name": "Anja Maier",
-                "job": "Journalistin",
-                "comment": "Die \"Weser-Kurier\"-Politikexpertin analysiert das Ringen um eine \u00c4nderung des Infektionsschutzgesetzes sowie die Ergebnisse der Ministerpr\u00e4sidentenkonferenz."
-            },
-            {
-                "name": "Stefan Kluge",
-                "job": "Arzt",
-                "comment": "Der Intensivmediziner vom Hamburger UKE schildert, wie sp\u00fcrbar die Auswirkungen der vierten Corona-Welle schon jetzt auf deutschen Intensivstationen sind. Er mahnt: \"Lassen Sie sich impfen!\""
-            },
-            {
-                "name": "Alexander Kekul\u00e9",
-                "job": "Virologe",
-                "comment": "\"Bei den ganzen Ma\u00dfnahmen fehlt ein klares, taktisches Ziel\", sagt er mit Blick auf die zugespitzte Infektionslage und skizziert seine Ideen, wie die Situation besser beherrscht werden k\u00f6nnte."
-            }
-        ]
+            "Christine Aschenberg-Dugnus",
+            "Anja Maier",
+            "Stefan Kluge",
+            "Alexander Kekul\u00e9"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-18-november-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-17-november-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 17. November 2021",
-        "date": "17.11.2021",
+        "date": "2021-11-17T00:00:00",
         "guests": [
-            {
-                "name": "Karl Lauterbach",
-                "job": "Politiker",
-                "comment": "Der SPD-Gesundheitsexperte \u00e4u\u00dfert sich zur zugespitzten Infektionslage, dem denkbaren weiteren Pandemieverlauf, den Anti-Corona-Pl\u00e4nen der m\u00f6glichen Ampelkoalition und zu Booster-Impfungen."
-            },
-            {
-                "name": "Christoph Plo\u00df",
-                "job": "Politiker",
-                "comment": "Der Hamburger CDU-Chef nimmt Stellung zur Corona-Politik des von seiner Partei gef\u00fchrten Gesundheitsministeriums sowie zur CDU-Neuaufstellung und Vorsitzendensuche."
-            },
-            {
-                "name": "Helene Bubrowski",
-                "job": "Journalistin",
-                "comment": "Die \"FAZ\"-Redakteurin hinterfragt das Krisenmanagement der verantwortlichen politischen Akteure. Mit Blick auf die Regierungsbildung sagt sie: \"Es ist ein katastrophaler Start.\""
-            },
-            {
-                "name": "Ralf Berning",
-                "job": "Intensivpfleger",
-                "comment": "Er berichtet von seinem anspruchsvollen Arbeitsalltag in einer Bielefelder Klinik, warnt vor einer \u00dcberlastung des Gesundheitssystems und \u00e4u\u00dfert sich zur Debatte um eine Impfplicht."
-            }
-        ]
+            "Karl Lauterbach",
+            "Christoph Plo\u00df",
+            "Helene Bubrowski",
+            "Ralf Berning"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-17-november-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-16-november-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 16. November 2021",
-        "date": "16.11.2021",
+        "date": "2021-11-16T00:00:00",
         "guests": [
-            {
-                "name": "Alexander Graf Lambsdorff",
-                "job": "Politiker",
-                "comment": "Der au\u00dfenpolitische Sprecher der FDP nimmt Stellung zur Migrationskrise in Belarus, zum Prozess der laufenden Regierungsbildung sowie zur Haltung seiner Partei in der Corona-Politik."
-            },
-            {
-                "name": "Christina Berndt",
-                "job": "Journalistin",
-                "comment": "Die \"SZ\"-Wissenschaftsredakteurin hinterfragt das Tempo und die Strategie der deutschen Impfkampagne. Sie meint: \"Die Kommunikation zur Booster-Impfung kam viel zu sp\u00e4t.\""
-            },
-            {
-                "name": "Thomas Mertens",
-                "job": "Virologe",
-                "comment": "Der Vorsitzende der St\u00e4ndigen Impfkommission \u00e4u\u00dfert sich zur zugespitzten pandemischem Lage, zur Debatte um versch\u00e4rfte Anti-Corona-Ma\u00dfnahmen sowie zur Arbeit seines Expertengremiums."
-            },
-            {
-                "name": "Muriel Kalisch",
-                "job": "Journalistin",
-                "comment": "Die Redakteurin des \"Spiegel\"-Auslandsressorts besuchte j\u00fcngst das Grenzgebiet zwischen Polen und Belarus. Sie schildert ihre Eindr\u00fccke und informiert \u00fcber die aktuelle Entwicklung."
-            }
-        ]
+            "Alexander Graf Lambsdorff",
+            "Christina Berndt",
+            "Thomas Mertens",
+            "Muriel Kalisch"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-16-november-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-11-november-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 11. November 2021",
-        "date": "11.11.2021",
+        "date": "2021-11-11T00:00:00",
         "guests": [
-            {
-                "name": "Jens Teutrine",
-                "job": "Politiker",
-                "comment": "Der Bundesvorsitzende der Jungen Liberalen geh\u00f6rt zu den Verhandlern der Ampel-Koalition. Er \u00e4u\u00dfert sich zur Krise an der Grenze zu Belarus sowie zur Energie- und Arbeitsmarktpolitik."
-            },
-            {
-                "name": "Sarah-Lee Heinrich",
-                "job": "Studentin",
-                "comment": "Die Bundessprecherin der Gr\u00fcnen Jugend erhielt aufgrund umstrittener fr\u00fcherer Twitter-\u00c4u\u00dferungen Morddrohungen. Sie bezieht Stellung dazu. Zudem schildert sie ihre politische Vision."
-            },
-            {
-                "name": "Yasmine M\u2018Barek",
-                "job": "Journalistin",
-                "comment": "Die \"Zeit Online\"-Redakteurin analysiert den Einfluss der Jugendorganisationen auf ihre Mutterparteien. Und sie \u00e4u\u00dfert sich zum Koalitionswillen von Gr\u00fcnen und FDP."
-            },
-            {
-                "name": "Vincent Stamer",
-                "job": "\u00d6konom",
-                "comment": "Der 29-j\u00e4hrige Experte vom Institut f\u00fcr Weltwirtschaft in Kiel spricht \u00fcber die Zukunftsf\u00e4higkeit des Rentensystems, \u00fcber Generationengerechtigkeit und \u00fcber die Finanzierung der Energiewende."
-            }
-        ]
+            "Jens Teutrine",
+            "Sarah-Lee Heinrich",
+            "Yasmine M\u2018Barek",
+            "Vincent Stamer"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-11-november-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-10-november-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 10. November 2021",
-        "date": "10.11.2021",
+        "date": "2021-11-10T00:00:00",
         "guests": [
-            {
-                "name": "Stephan Weil",
-                "job": "Politiker",
-                "comment": "Der Ministerpr\u00e4sident Niedersachsens (SPD) nimmt Stellung zu m\u00f6glichen Ma\u00dfnahmen gegen die rasant steigenden Corona-Zahlen sowie zu seiner Wirtschafts- und Klimapolitik."
-            },
-            {
-                "name": "Melanie Brinkmann",
-                "job": "Virologin",
-                "comment": "\"Es fehlt F\u00fchrung, und es ist keine Strategie da\", mahnt sie mit Blick auf das Infektionsgeschehen. Sie \u00e4u\u00dfert sich zur Impf- und 2G-Debatte sowie zu Corona-Strategien anderer L\u00e4nder."
-            },
-            {
-                "name": "Michael Br\u00f6cker",
-                "job": "Journalist",
-                "comment": "Der Chefredakteur von \"The Pioneer\" analysiert das Agieren Stephan Weils, die laufenden Ampel-Koalitionsverhandlungen sowie das Ringen von Bund und L\u00e4ndern um den weiteren Corona-Kurs."
-            },
-            {
-                "name": "Mojib Latif",
-                "job": "Klimaforscher",
-                "comment": "Er analysiert die ersten Ergebnisse der Weltklimakonferenz in Glasgow. Zudem skizziert er das Ausma\u00df des Klimawandels und hinterfragt die Energie- und Umweltpolitik Chinas."
-            }
-        ]
+            "Stephan Weil",
+            "Melanie Brinkmann",
+            "Michael Br\u00f6cker",
+            "Mojib Latif"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-10-november-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-9-november-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 9. November 2021",
-        "date": "09.11.2021",
+        "date": "2021-11-09T00:00:00",
         "guests": [
-            {
-                "name": "Peter Altmaier",
-                "job": "Politiker",
-                "comment": "Der scheidende Bundeswirtschaftsminister (CDU) nimmt Stellung zu seiner Wirtschafts- und Energiepolitik, dem weiteren Corona-Kurs sowie zur Neuaufstellung seiner Partei."
-            },
-            {
-                "name": "Claudia Kade",
-                "job": "Journalistin",
-                "comment": "Die \"Welt\"-Politikexpertin analysiert den Prozess des laufenden Regierungswechsels. Und sie \u00e4u\u00dfert sich zum erschwerten Pandemiemanagement aufgrund des aktuellen Machtvakuums."
-            },
-            {
-                "name": "Dr. Carola Holzner",
-                "job": "\u00c4rztin",
-                "comment": "Die Ober\u00e4rztin an einem Duisburger Klinikum nimmt Stellung zur Debatte um 2G und eine Impflicht im Gesundheitswesen sowie zum zunehmenden Mangel an Pflegekr\u00e4ften."
-            },
-            {
-                "name": "Frank Sch\u00e4tzing",
-                "job": "Autor",
-                "comment": "\"Was, wenn wir einfach die Welt retten?\" ist der Titel seines aktuellen Buches. Anl\u00e4sslich der laufenden Weltklimakonferenz skizziert er seine klimapolitischen Forderungen und Ideen."
-            }
-        ]
+            "Peter Altmaier",
+            "Claudia Kade",
+            "Dr. Carola Holzner",
+            "Frank Sch\u00e4tzing"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-9-november-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-4-november-2021-102.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 4. November 2021",
-        "date": "04.11.2021",
+        "date": "2021-11-04T00:00:00",
         "guests": [
-            {
-                "name": "Harald Lesch",
-                "job": "Wissenschaftsjournalist",
-                "comment": "Er skizziert die Dimension der Klimakrise und deren weitreichenden Auswirkungen f\u00fcr die Erde und die Menschheit. \"Wir k\u00f6nnen mit der Natur nicht verhandeln\", mahnt er."
-            },
-            {
-                "name": "Frank Thelen",
-                "job": "Unternehmer",
-                "comment": "\"Uns fehlt der Mut, wirklich neu zu denken\", sagt der Investor mit Blick auf die Herausforderungen der Energiewende. Er erl\u00e4utert seine Zukunftsvision."
-            },
-            {
-                "name": "Lamia Messari-Becker",
-                "job": "Bauingenieurin",
-                "comment": "Die Professorin f\u00fcr Geb\u00e4udetechnologie erkl\u00e4rt, wie klimaneutrale Lebensr\u00e4ume aussehen und warum der Klimawandel \u00c4nderungen beim Wohnungsbau und der St\u00e4dteplanung erfordert."
-            },
-            {
-                "name": "Marcel Fratzscher",
-                "job": "\u00d6konom",
-                "comment": "Der Pr\u00e4sident des Deutschen Instituts f\u00fcr Wirtschaftsforschung spricht \u00fcber die \u00f6konomischen Folgen des Klimawandels. \"Gute Klimapolitik ist gute Wirtschaftspolitik\", sagt er."
-            }
-        ]
+            "Harald Lesch",
+            "Frank Thelen",
+            "Lamia Messari-Becker",
+            "Marcel Fratzscher"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-4-november-2021-102.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-3-november-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 3. November 2021",
-        "date": "04.11.2021",
+        "date": "2021-11-04T00:00:00",
         "guests": [
-            {
-                "name": "Cathrin Gilbert",
-                "job": "Journalistin",
-                "comment": "Die ZEIT-Sportexpertin spricht \u00fcber die Hintergr\u00fcnde der \u00dcbernahme des Fu\u00dfballclubs Newcastle United durch saudische Investoren, wodurch der Verein zu einem der reichsten der Welt wurde."
-            },
-            {
-                "name": "Felix Magath",
-                "job": "Ex-Fu\u00dfballprofi",
-                "comment": "Der fr\u00fchere Meistertrainer \u00e4u\u00dfert sich zum Wandel des Fu\u00dfballsports und erl\u00e4utert, warum er die Kritik traditioneller Fu\u00dfballfans an der Kommerzialisierung ihres Sports scheinheilig findet."
-            },
-            {
-                "name": "Ewald Lienen",
-                "job": "Ex-Fu\u00dfballtrainer",
-                "comment": "Er warnt vor einem zu gro\u00dfen Einfluss von Kapitalgesellschaften im Fu\u00dfball und schildert, wie sich die Werte und die Faszination f\u00fcr diesen Sport zwischen den Generationen unterscheiden."
-            }
-        ]
+            "Cathrin Gilbert",
+            "Felix Magath",
+            "Ewald Lienen"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-3-november-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-2-november-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 2. November 2021",
-        "date": "02.11.2021",
+        "date": "2021-11-02T00:00:00",
         "guests": [
-            {
-                "name": "Reiner Haseloff",
-                "job": "Politiker",
-                "comment": "Der Ministerpr\u00e4sident Sachsen-Anhalts (CDU) nimmt Stellung zu den Beratungen \u00fcber die personelle Neuaufstellung seiner Partei sowie zum weiteren Kurs in der Coronakrise."
-            },
-            {
-                "name": "Robin Alexander",
-                "job": "Journalist",
-                "comment": "Der stellvertretende \"Welt\"-Chefredakteur analysiert die Corona-Politik von Bund und L\u00e4ndern, den Zustand der Union sowie die Herausforderungen der \u00dcbergangsphase beim Ende der \u00c4ra Merkel."
-            },
-            {
-                "name": "Dirk Brockmann",
-                "job": "Physiker",
-                "comment": "Er entwickelt Vorhersagen f\u00fcr die Ausbreitung von Epidemien. \"Das Infektionsgeschehen ist besorgniserregend\", sagt er, und erl\u00e4utert, welche Ma\u00dfnahmen er f\u00fcr notwendig erachtet."
-            },
-            {
-                "name": "Alena Buyx",
-                "job": "Ethikerin",
-                "comment": "Die Vorsitzende des Deutschen Ethikrates \u00e4u\u00dfert sich zu den Folgen schleppender Booster-Impfungen, zur Maskenpflicht an Schulen und zu Forderungen nach einem Freedom Day."
-            },
-            {
-                "name": "Svenja Fla\u00dfp\u00f6hler",
-                "job": "Philosophin",
-                "comment": "Die Chefredakteurin des Magazins \"Philosophie\" hinterfragt die Verh\u00e4ltnism\u00e4\u00dfigkeit der aktuell geltenden Anti-Coronama\u00dfnahmen. Sie meint: \"Es gibt einen immensen Impfdruck.\""
-            }
-        ]
+            "Reiner Haseloff",
+            "Robin Alexander",
+            "Dirk Brockmann",
+            "Alena Buyx",
+            "Svenja Fla\u00dfp\u00f6hler"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-2-november-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-28-oktober-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 28. Oktober 2021",
-        "date": "28.10.2021",
+        "date": "2021-10-28T00:00:00",
         "guests": [
-            {
-                "name": "Franz M\u00fcntefering",
-                "job": "Politiker",
-                "comment": "Der Ex-Vizekanzler (SPD) und Chef der Bundesarbeitsgemeinschaft der Seniorenorganisationen nimmt Stellung zum Machtwechsel in Deutschland und zur Situation \u00c4lterer in der Coronazeit."
-            },
-            {
-                "name": "Michael Kellner",
-                "job": "Politiker",
-                "comment": "Als einer der Hauptverhandler \u00e4u\u00dfert sich der Bundesgesch\u00e4ftsf\u00fchrer von B\u00fcndnis 90/Die Gr\u00fcnen zur angestrebten Ampel-Koalition und zum weiteren Kurs in der Coronakrise."
-            },
-            {
-                "name": "Anja Maier",
-                "job": "Journalistin",
-                "comment": "Die Redakteurin des \"Weser-Kurier\" skizziert die Differenzen, die die Koalitionsverhandler von SPD, Gr\u00fcnen und FDP aus dem Weg r\u00e4umen m\u00fcssen, mit Blick auf die Finanzpolitik."
-            },
-            {
-                "name": "Prof. Carsten Watzl",
-                "job": "Immunologe",
-                "comment": "Er \u00e4u\u00dfert sich zu den Gr\u00fcnden steigender Coronainfektionszahlen, zu Impfdurchbr\u00fcchen, zur Funktionsweise von Booster-Impfungen sowie zur m\u00f6glichen Zulassung von Kinder-Impfstoffen."
-            }
-        ]
+            "Franz M\u00fcntefering",
+            "Michael Kellner",
+            "Anja Maier",
+            "Prof. Carsten Watzl"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-28-oktober-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-27-oktober-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 27. Oktober 2021",
-        "date": "27.10.2021",
+        "date": "2021-10-27T00:00:00",
         "guests": [
-            {
-                "name": "Gerhart Baum",
-                "job": "Politiker",
-                "comment": "Der fr\u00fchere Bundesinnenminister (FDP) nimmt Stellung zu den Herausforderungen der angestrebten rot-gelb-gr\u00fcnen Koalition sowie zur zugespitzten Lage an der EU-Au\u00dfengrenze zu Belarus."
-            },
-            {
-                "name": "Cansin K\u00f6kt\u00fcrk",
-                "job": "Sozialarbeiterin",
-                "comment": "Vor einem Jahr trat die Bochumerin bei B\u00fcndnis 90/Die Gr\u00fcnen ein. Sie erl\u00e4utert, warum sie von den sozialpolitischen Ergebnissen der Ampel-Sondierungen entt\u00e4uscht ist."
-            },
-            {
-                "name": "Gerald Knaus",
-                "job": "Soziologe",
-                "comment": "Der Migrationsforscher \u00e4u\u00dfert sich zu den Hintergr\u00fcnden im Fl\u00fcchtlingskonflikt der EU mit Polen und Belarus. Zur aktuellen Situation sagt er: \"Es ist eine menschliche Trag\u00f6die.\""
-            },
-            {
-                "name": "Kerstin M\u00fcnstermann",
-                "job": "Journalistin",
-                "comment": "Die Politikexpertin der \"Rheinischen Post\" \u00e4u\u00dfert sich zum Auftakt der Koalitionsverhandlungen. Sie meint: \"Das meiste Konfliktpotential wird es wohl bei der Postenbesetzung geben.\""
-            }
-        ]
+            "Gerhart Baum",
+            "Cansin K\u00f6kt\u00fcrk",
+            "Gerald Knaus",
+            "Kerstin M\u00fcnstermann"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-27-oktober-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-26-oktober-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 26. Oktober 2021",
-        "date": "26.10.2021",
+        "date": "2021-10-26T00:00:00",
         "guests": [
-            {
-                "name": "Dr. Jana Schroeder",
-                "job": "Virologin",
-                "comment": "\"Die Pandemie ist nicht vorbei\", warnt sie mit Blick auf die rasant steigenden Corona-Zahlen. Sie \u00e4u\u00dfert sich zudem zur Kimmich-Debatte, zu Impfdurchbr\u00fcchen und Booster-Impfungen."
-            },
-            {
-                "name": "Albrecht von Lucke",
-                "job": "Publizist",
-                "comment": "Der Politologe analysiert den laufenden Prozess der Regierungsbildung sowie die Trag- und Zukunftsf\u00e4higkeit der angestrebten Ampel-Koalition."
-            },
-            {
-                "name": "Wiebke Winter",
-                "job": "Politikerin",
-                "comment": "Als Mitbegr\u00fcnderin der Klima-Union und j\u00fcngstes Mitglied des CDU-Bundesvorstands spricht sie \u00fcber Wege aus der Krise der Union sowie \u00fcber ihre klima- und energiepolitischen Ideen."
-            },
-            {
-                "name": "Carla Reemtsma",
-                "job": "Umweltaktivistin",
-                "comment": "Die \"Fridays for Future\"-Sprecherin kritisiert die Sondierungsbeschl\u00fcsse beim Klimaschutz und \u00e4u\u00dfert sich zum Vorwurf, die Bewegung w\u00fcrde sich radikalisieren."
-            }
-        ]
+            "Dr. Jana Schroeder",
+            "Albrecht von Lucke",
+            "Wiebke Winter",
+            "Carla Reemtsma"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-26-oktober-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-21-oktober-2021-102.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 21. Oktober 2021",
-        "date": "21.10.2021",
+        "date": "2021-10-21T00:00:00",
         "guests": [
-            {
-                "name": "Daniel Drepper",
-                "job": "Journalist",
-                "comment": "Recherchen seines Teams von \"Ippen Investigativ\" sowie der \"New York Times\" f\u00fchrten zum Sturz des BILD-Chefs Julian Reichelt aufgrund des Vorwurfs von Machtmissbrauch."
-            },
-            {
-                "name": "Caroline Rosales",
-                "job": "Autorin",
-                "comment": "Die \"Zeit Online\"-Redakteurin schildert, wie m\u00e4nnliche Kollegen w\u00e4hrend ihres Berufseinstiegs beim Axel-Springer-Verlag Abh\u00e4ngigkeitsverh\u00e4ltnisse ausnutzten, und sagt: \"Ich bangte jeden Tag um meinen Job.\""
-            },
-            {
-                "name": "Melanie Amann",
-                "job": "Journalistin",
-                "comment": "Der \"Spiegel\", dessen Chefredaktion sie angeh\u00f6rt, ver\u00f6ffentlichte Teile der Recherche \u00fcber Reichelt. \u00dcber Sexismus im Beruf sagt sie: \"Das zu \u00e4ndern, ist ein gesamtgesellschaftlicher Auftrag.\""
-            },
-            {
-                "name": "Michael M\u00fcller",
-                "job": "Politiker",
-                "comment": "Der scheidende Regierende B\u00fcrgermeister von Berlin \u00e4u\u00dfert sich zu den Wahlpannen in seiner Stadt, seinem Wechsel in die Bundespolitik und den Aufgaben der wahrscheinlichen Ampel-Regierung."
-            },
-            {
-                "name": "Hajo Schumacher",
-                "job": "Publizist",
-                "comment": "Der in Berlin lebende Kolumnist analysiert das Agieren M\u00fcllers, die Defizite in der Verwaltung der Hauptstadt und sagt zum Thema Machtmissbrauch: \"Reichelts gibt es \u00fcberall in Deutschland.\""
-            }
-        ]
+            "Daniel Drepper",
+            "Caroline Rosales",
+            "Melanie Amann",
+            "Michael M\u00fcller",
+            "Hajo Schumacher"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-21-oktober-2021-102.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-20-oktober-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 20. Oktober 2021",
-        "date": "21.10.2021",
+        "date": "2021-10-21T00:00:00",
         "guests": [
-            {
-                "name": "Markus Blume",
-                "job": "Politiker",
-                "comment": "Der CSU-Generalsekret\u00e4r nimmt Stellung zu der m\u00f6glichen Rolle der Union in der Opposition, zur Notwendigkeit innerparteilicher Reformen sowie zum Verh\u00e4ltnis der Schwesterparteien."
-            },
-            {
-                "name": "Marie-A. Strack-Zimmermann",
-                "job": "Politikerin",
-                "comment": "\"Die Ampel ist keine Liebesheirat\", sagt die FDP-Politikerin \u00fcber die angestrebte Koalition zwischen Liberalen, SPD und Gr\u00fcnen und skizziert die Aufgaben, vor denen das B\u00fcndnis steht."
-            }
-        ]
+            "Markus Blume",
+            "Marie-A. Strack-Zimmermann"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-20-oktober-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-19-oktober-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 19. Oktober 2021",
-        "date": "19.10.2021",
+        "date": "2021-10-19T00:00:00",
         "guests": [
-            {
-                "name": "Robert Habeck",
-                "job": "Politiker",
-                "comment": "Der Gr\u00fcnen-Chef nimmt Stellung zu den Sondierungsergebnissen, zu m\u00f6glichen Streitpunkten bei Koalitionsverhandlungen mit FDP und SPD sowie zu seiner denkbaren Rolle im n\u00e4chsten Kabinett."
-            },
-            {
-                "name": "Ulrich Schulte",
-                "job": "Journalist",
-                "comment": "Mit Blick auf die Finanz- und Klimapolitik legt der Leiter des \"taz\"-Parlamentsb\u00fcros dar, welches Konfliktpotenzial und welche Chancen eine Ampelkoalition birgt."
-            },
-            {
-                "name": "Karin Prien",
-                "job": "Politikerin",
-                "comment": "Als Mitglied des CDU-Bundesvorstandes \u00e4u\u00dfert sie sich zur k\u00fcnftigen inhaltlichen und personellen Ausrichtung ihrer Partei sowie zur wahrscheinlichen Oppositionsrolle der Union."
-            },
-            {
-                "name": "Kristina Dunz",
-                "job": "Journalistin",
-                "comment": "Die Politikexpertin vom \"RedaktionsNetzwerk Deutschland\" \u00e4u\u00dfert sich zur Zukunftsf\u00e4higkeit von CDU und CSU sowie zur Forderung der Frauen Union nach mehr Einfluss in der Partei."
-            }
-        ]
+            "Robert Habeck",
+            "Ulrich Schulte",
+            "Karin Prien",
+            "Kristina Dunz"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-19-oktober-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-14-oktober-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 14. Oktober 2021",
-        "date": "14.10.2021",
+        "date": "2021-10-14T00:00:00",
         "guests": [
-            {
-                "name": "Kevin K\u00fchnert",
-                "job": "Politiker",
-                "comment": "Der stellvertretende SPD-Parteivorsitzende spricht \u00fcber die laufenden Ampel-Sondierungen und sagt, welche Rolle er k\u00fcnftig in seiner Partei einnehmen m\u00f6chte."
-            },
-            {
-                "name": "Helene Bubrowski",
-                "job": "Journalistin",
-                "comment": "Als FAZ-Parlamentskorrespondentin gibt sie eine Einsch\u00e4tzung der Sondierungsgespr\u00e4che und sagt, auf welche Kompromisse es besonders ankommen wird."
-            },
-            {
-                "name": "Bijan Djir-Sarai",
-                "job": "Politiker",
-                "comment": "Der au\u00dfenpolitische Sprecher der FDP-Bundestagsfraktion erl\u00e4utert die Folgen des Bundeswehr-Truppenabzugs in Afghanistan."
-            },
-            {
-                "name": "Tankred St\u00f6be",
-                "job": "Arzt",
-                "comment": "F\u00fcr \"\u00c4rzte ohne Grenzen\" war er im September in Afghanistan. Der Mediziner warnt, dass das Land gegenw\u00e4rtig auf eine humanit\u00e4re Katastrophe zusteuert."
-            }
-        ]
+            "Kevin K\u00fchnert",
+            "Helene Bubrowski",
+            "Bijan Djir-Sarai",
+            "Tankred St\u00f6be"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-14-oktober-2021-100.html"
     },
     {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-13-oktober-2021-100.html",
         "channel": "ZDF",
+        "host": "Markus Lanz",
         "title": "Markus Lanz vom 13. Oktober 2021",
-        "date": "13.10.2021",
+        "date": "2021-10-13T00:00:00",
         "guests": [
-            {
-                "name": "Karl-Josef Laumann",
-                "job": "Politiker",
-                "comment": "Der NRW-Gesundheitsminister spricht \u00fcber die Neuausrichtung der CDU und die Zukunft ihres amtierenden Parteivorsitzenden Armin Laschet."
-            },
-            {
-                "name": "Mariam Lau",
-                "job": "Journalistin",
-                "comment": "Die Politikredakteurin der ZEIT kommentiert den Erneuerungsprozess der Union und erkl\u00e4rt, wer welches Interesse im internen Machtkampf verfolgt."
-            },
-            {
-                "name": "Stephan Gr\u00fcnewald",
-                "job": "Psychologe",
-                "comment": "Der Direktor des rheingold instituts spricht \u00fcber die Zukunftssorgen und \u2013w\u00fcnsche der Deutschen und sagt, welche Rolle dabei die Politik einnimmt."
-            },
-            {
-                "name": "Christina Berndt",
-                "job": "Journalistin",
-                "comment": "Die Wissenschaftsjournalistin der SZ \u00e4u\u00dfert sich zur aktuellen Lage in der Coronapandemie und kritisiert vorzeitige Lockerungen der Coronama\u00dfnahmen."
-            }
-        ]
-    },
-    {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-12-oktober-2021-100.html",
-        "channel": "ZDF",
-        "title": "Markus Lanz vom 12. Oktober 2021",
-        "date": "12.10.2021",
-        "guests": [
-            {
-                "name": "Florian Klenk",
-                "job": "Journalist",
-                "comment": "Der Chefredakteur des FALTER spricht \u00fcber die Korruptionsvorw\u00fcrfe gegen den \u00f6sterreichischen Ex-Kanzler Kurz und die daraus entstandene Regierungskrise."
-            },
-            {
-                "name": "J\u00fcrgen Trittin",
-                "job": "Politiker",
-                "comment": "Der gr\u00fcne Bundestagsabgeordnete ist Teil des Sondierungsteams f\u00fcr eine Ampel. Er spricht \u00fcber den Fortgang der Verhandlungen mit SPD und FDP."
-            },
-            {
-                "name": "Elke Heidenreich",
-                "job": "Autorin",
-                "comment": "Die Schriftstellerin kommentiert das politische Geschehen in Deutschland kritisch und erz\u00e4hlt von der Entstehung ihres Buches \"Hier geht's lang!\"."
-            },
-            {
-                "name": "Kai Wegner",
-                "job": "Politiker",
-                "comment": "Der Landesvorsitzende der CDU Berlin \u00e4u\u00dfert sich zur inhaltlichen und personellen Erneuerung der Union nach der verlorenen Bundestagswahl."
-            }
-        ]
-    },
-    {
-        "url": "/gesellschaft/markus-lanz/markus-lanz-vom-7-oktober-2021-100.html",
-        "channel": "ZDF",
-        "title": "Markus Lanz vom 7. Oktober 2021",
-        "date": "07.10.2021",
-        "guests": [
-            {
-                "name": "Peter Altmaier",
-                "job": "Politiker",
-                "comment": "Der Bundeswirtschaftsminister analysiert die Lage der CDU angesichts der Spannungen mit der bayerischen Schwesterpartei und der Entscheidung von Gr\u00fcnen und FDP, mit der SPD zu sondieren."
-            },
-            {
-                "name": "Christoph Plo\u00df",
-                "job": "Politiker",
-                "comment": "Der CDU-Landesvorsitzende aus Hamburg blickt auf die bittere Wahlniederlage und ist sich sicher, dass die \u00f6ffentlich ausgetragenen Personaldebatten zum Abrutschen seiner Partei beitrugen."
-            },
-            {
-                "name": "Alexander Graf Lambsdorff",
-                "job": "Politiker",
-                "comment": "F\u00fcr den FDP-Politiker ist das Gelingen der heute begonnenen Ampel-Gespr\u00e4che noch nicht ausgemacht. Er meint: \"Jamaika ist noch lange nicht gestorben.\""
-            },
-            {
-                "name": "Ulrike Herrmann",
-                "job": "Wirtschaftsjournalistin",
-                "comment": "Die \"taz\"-Korrespondentin analysiert den heutigen Auftakt der Dreiersondierungen in Berlin und erkl\u00e4rt, wo sie Knackpunkte und H\u00fcrden bei dem m\u00f6glichen rot-gr\u00fcn-gelben B\u00fcndnis sieht."
-            },
-            {
-                "name": "Gregor Peter Schmitz",
-                "job": "Journalist",
-                "comment": "Der Chefredakteur der \"Augsburger Allgemeinen\" und intime CSU-Kenner blickt auf die offenen Machtverh\u00e4ltnisse der Union und erkl\u00e4rt deren Bedeutung f\u00fcr das Zustandekommen einer Regierung."
-            }
-        ]
+            "Karl-Josef Laumann",
+            "Mariam Lau",
+            "Stephan Gr\u00fcnewald",
+            "Christina Berndt"
+        ],
+        "href": "/gesellschaft/markus-lanz/markus-lanz-vom-13-oktober-2021-100.html"
     }
 ]

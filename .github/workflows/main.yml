@@ -30,7 +30,7 @@ jobs:
       - name: Run talkshow updater
         run: |-
           cd talkshows
-          python update_all.py
+          python update_talkshows.py
           cd ..
       - name: Commit and push if it changed
         run: |-
