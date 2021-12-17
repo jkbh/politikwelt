@@ -31,7 +31,7 @@ jobs:
         run: |-
           cd scrape_talkshows
           scrapy crawl maischberger
-          scraoy crawl lanz
+          scrapy crawl lanz
           cd ..
       - name: Commit and push if it changed
         run: |-
