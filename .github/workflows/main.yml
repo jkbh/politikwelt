@@ -32,6 +32,9 @@ jobs:
           cd scrape_talkshows
           scrapy crawl maischberger
           scrapy crawl lanz
+          scrapy crawl illner
+          scrapy crawl will
+          scrapy crawl hartaberfair
           cd ..
       - name: Commit and push if it changed
         run: |-

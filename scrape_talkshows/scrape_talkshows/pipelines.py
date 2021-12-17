@@ -19,7 +19,7 @@ class DuplicatePipeline:
     
     def open_spider(self, spider):
         if exists('items.json'):
-            self.known_urls.extend([json.loads(item)['url'] for item in open('items.json', 'r').readlines()])        
+            self.known_urls.extend([json.loads(item)['url'] for item in open('items.json', 'r')])        
     
     def process_item(self, item, spider):        
         if item['url'] in self.known_urls:

@@ -1,8 +1,9 @@
-from itemloaders.processors import TakeFirst
+from itemloaders.processors import TakeFirst, MapCompose
 import scrapy
-from scrape_talkshows.items import MaischbergerShow
 from scrapy.loader import ItemLoader
 from datetime import datetime
+
+from scrape_talkshows.items import TalkshowItem
 
 
 class MaischbergerSpider(scrapy.Spider):
@@ -18,8 +19,13 @@ class MaischbergerSpider(scrapy.Spider):
         #     yield response.follow(next_page, callback=self.parse)
 
     def parse_show(self, response):
-        loader = ItemLoader(item=MaischbergerShow(), response=response)
-        loader.default_output_processor = TakeFirst()          
+        loader = ItemLoader(item=TalkshowItem(), response=response)
+        loader.default_output_processor = TakeFirst()                
+
+        loader.date_in = MapCompose(lambda date: datetime.strptime(date, '%d.%m.%y | %H:%M'))
+        loader.guests_in = MapCompose(str.strip)
+        loader.guests_out = lambda gts: gts[[gts.index(g) for g in gts if 'Gäste' in g][0] + 1:]
+
         loader.add_value('host', 'Sandra Maischberger')
         loader.add_value('channel', 'ARD')        
         loader.add_css('title', 'h1.headline::text')        
