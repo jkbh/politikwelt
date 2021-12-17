@@ -29,8 +29,9 @@ jobs:
         run: python -m playwright install-deps          
       - name: Run talkshow updater
         run: |-
-          cd talkshows
-          python update_talkshows.py
+          cd scrape_talkshows
+          scrapy crawl maischberger
+          scraoy crawl lanz
           cd ..
       - name: Commit and push if it changed
         run: |-
